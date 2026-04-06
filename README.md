@@ -1,5 +1,4 @@
 # Chokordavid.github.io
-[preview.html](https://github.com/user-attachments/files/26511381/preview.html)
 <!DOCTYPE html>
 <html>
 <head>
