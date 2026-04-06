@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>My Personal Website</title>
+    My Personal Website
 </head>
 
 <body>
